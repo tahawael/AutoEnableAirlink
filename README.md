@@ -7,4 +7,5 @@ and paste (Enable_AirLink.py) Or (AutoEnableAirlink.exe) there
 
 # Notes
 Change Current-User with your user
+
 I only test it on 1080p monitor (IDK if it works with higher or lower resolution)
