@@ -1,5 +1,5 @@
 # AutoEnableAirlink
-Enabes airlink automatically
+Enables airlink automatically
 
 # To make it startup with windows:
 Go to this direction ➡️ (C:\Users\Current-User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
